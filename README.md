@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a Multi-Agent assistant for losing weight leveraging Claude Sonnet models for its agents and DuckDuck Go HTML Search and BeatifulSoup for meal planning. 
+This project is a Multi-Agent assistant for losing weight leveraging Claude Sonnet models for its agents, DuckDuck Go HTML Search and BeatifulSoup for meal planning. 
 
 ## Features
 
@@ -21,6 +21,8 @@ This project is a Multi-Agent assistant for losing weight leveraging Claude Sonn
 - DuckDuck Go HTML Search
 - Claude Sonnet Model 
 - BeautifulSoup
+- SageMakerStudio
+- Jupyter Lab
   
 ---
 
