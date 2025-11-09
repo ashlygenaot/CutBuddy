@@ -23,6 +23,7 @@ This project is a Multi-Agent assistant for losing weight leveraging Claude Sonn
 - BeautifulSoup
 - SageMakerStudio
 - Jupyter Lab
+- Requests
   
 ---
 
