@@ -6,6 +6,7 @@
 CutBuddy is a multi-agent AI nutrition assistant built to generate personalized daily meal plans based on a user's nutrition targets and available ingredients. I created it to explore how multiple specialized AI agents can work together to complete a structured workflow rather than relying on a single model response.
 
 The project uses Strands Agents and AWS Bedrock to coordinate recipe searching, meal optimization, and meal plan validation. It has given me hands-on experience working with agentic AI workflows, tool calling, prompt engineering, structured JSON outputs, web scraping, nutrition calculations, and AWS infrastructure.
+
 ---
 
 ## Demo
